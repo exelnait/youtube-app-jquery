@@ -1,4 +1,5 @@
-
+// var chai = require('chai');
+// var assert = chai.assert;
 
 suite('Calculator', function() {
     suite('multiply', function() {
