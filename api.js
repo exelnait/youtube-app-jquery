@@ -9,7 +9,7 @@ var YouTube = {
                 part: 'snippet',
                 key: KEY,
                 chart: 'mostPopular',
-                maxResults: 9
+                maxResults: 50
             },
             success: function( result ) {
                 d.resolve(result)
